@@ -1,1 +1,1 @@
-# ✨ Jenn.note
+# ✨ jenn.page
