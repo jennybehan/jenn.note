@@ -6,13 +6,16 @@ const shouldAnalyseBundle = process.env.ANALYSE_BUNDLE
 
 module.exports = {
   siteMetadata: {
-    siteTitle: `Jenn.note`,
-    siteHeadline: `This is Jenn's note blog`,
+    siteTitle: `jenn.page`,
+    siteTitleAt: `jenn.page`,
+    siteHeadline: `jenn.page`,
+    siteUrl: `https://jenn.page`,
+    siteDescription: `블로그`,
     siteLanguage: `ko`,
     // Used for og:image and must be placed inside the `static` folder
-    siteImage: `/banner.jpg`,
+    // siteImage: `/banner.jpg`,
     // Twitter Handle
-    author: `@jenn.note`,
+    author: `@jenn.page`,
   },
   plugins: [
     {
@@ -40,7 +43,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        trackingId: process.env.GOOGLE_ANALYTICS_ID,
+        trackingId: "G-J6647MD4DL",
       },
     },
     `gatsby-plugin-sitemap`,
