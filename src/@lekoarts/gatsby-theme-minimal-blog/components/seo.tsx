@@ -13,7 +13,7 @@ type SEOProps = {
 }
 
 const SEO = ({
-  title = ``,
+  title = `Blog`,
   description = ``,
   pathname = ``,
   image = ``,
