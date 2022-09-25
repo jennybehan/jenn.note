@@ -47,6 +47,7 @@ module.exports = {
       },
     },
     `gatsby-plugin-sitemap`,
+    `gatsby-plugin-mdx-embed`,
     // {
     //   resolve: `gatsby-plugin-manifest`,
     //   options: {
