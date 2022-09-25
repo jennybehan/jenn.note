@@ -35,7 +35,7 @@ module.exports = {
         externalLinks: [
           {
             name: `Instagram`,
-            url: `https://www.instagram.com`,
+            url: `https://www.instagram.com/jenn.note/`,
           },
         ],
       },
