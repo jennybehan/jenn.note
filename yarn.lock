@@ -6702,6 +6702,20 @@ gatsby-transformer-sharp@^3.14.0:
     semver "^7.3.5"
     sharp "^0.29.0"
 
+gatsby-transformer-sharp@^5.13.0:
+  version "5.13.0"
+  resolved "https://registry.yarnpkg.com/gatsby-transformer-sharp/-/gatsby-transformer-sharp-5.13.0.tgz#45447d17ff5f2f9e9a15b39c68dffe7684d07e91"
+  integrity sha512-jGpH1Nf1oNiv3Yze9xNZIrzwyJx2UAkPHhcru6B6TCtYfEbvctEx018LZfgvO2VKnQZkTKPDZOvldGl3d2LdQA==
+  dependencies:
+    "@babel/runtime" "^7.20.13"
+    bluebird "^3.7.2"
+    common-tags "^1.8.2"
+    fs-extra "^11.1.1"
+    gatsby-plugin-utils "^4.13.0"
+    probe-image-size "^7.2.3"
+    semver "^7.5.3"
+    sharp "^0.32.6"
+
 gatsby-worker@^1.25.0:
   version "1.25.0"
   resolved "https://registry.yarnpkg.com/gatsby-worker/-/gatsby-worker-1.25.0.tgz#0bbed669f3b21345a350743b9826cbfd007fa3a9"
